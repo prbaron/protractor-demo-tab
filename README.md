@@ -7,6 +7,8 @@ Setup
 -----
     npm install
 
+Go to *test/conf* and uncomment the right `controlKey` based on your OS.
+
 To run
 ------
 Get ChromeDriver set up: Run `./node_modules/.bin/webdriver-manager update`.
